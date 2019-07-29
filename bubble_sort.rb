@@ -10,12 +10,10 @@ def bubble_sort(arr)
 
     unsorted_length.times do |i|
       next if arr[i] < arr[i + 1]
-
       arr[i], arr[i + 1] = arr[i + 1], arr[i]
       sorted = false
     end
   end
-
   arr
 end
 
@@ -29,14 +27,11 @@ def bubble_sort_by(arr)
 
     unsorted_length.times do |i|
       result = yield([arr[i], arr[i + 1]])
-
       next if result.negative?
-
       arr[i], arr[i + 1] = arr[i + 1], arr[i]
       sorted = false
     end
   end
-
   arr
 end
 
