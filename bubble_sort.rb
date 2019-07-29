@@ -9,7 +9,7 @@ def bubble_sort(arr)
     unsorted_length -= 1
 
     unsorted_length.times do |i|
-      next if arr[i] <= arr[i + 1]
+      next if arr[i] < arr[i + 1]
 
       arr[i], arr[i + 1] = arr[i + 1], arr[i]
       sorted = false
