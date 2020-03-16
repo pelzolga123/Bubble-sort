@@ -24,7 +24,7 @@ ruby bubble_sort.rb
    - LinkedIn: [Olga Pelts](https://www.linkedin.com/in/olga-pelts/)
 
 👤 **Michael McGee**
-   - Github: [michael-mcgee](https://github.com/michael-mcgee)
+   - Github: [@michael-mcgee](https://github.com/michael-mcgee)
    - LinkedIn: [Michael McGee](https://www.linkedin.com/in/michael-mcgee-36a860160/)
 
 ## 🤝 Contributing
