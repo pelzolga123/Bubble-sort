@@ -1,7 +1,7 @@
 <h1 align="center">Bubble Sort 👋</h1>
 
 ## About The Project
-“Bubble sort” is simple sorting algorithm, written in Ruby. The goal of this project was to implement the bubble sort algorithm, making use of yield and passing a block to a method. This project was completed as part of the [Microverse](https://www.microverse.org/) curriculum.
+“Bubble sort” is a simple sorting algorithm, written in Ruby. The goal of this project was to implement the bubble sort algorithm, making use of yield and passing a block to a method. This project was completed as part of the [Microverse](https://www.microverse.org/) curriculum.
 
 ## Built With
 * Ruby
